@@ -1,5 +1,6 @@
 # CyberFlag
-A digital safety education service targetted towards youth. Built by the Uchicha Clan for the 2020 Digital Convergence Hackathon 
+A digital safety education service targetted towards youth. Built by the Uchicha Clan for the 2020 Digital Convergence Hackathon in response to the COVID 19 Pandemic.
+
 ![CyberFlag](https://media.discordapp.net/attachments/769308865245478965/770469314813624320/unknown.png?width=684&height=684)
 
 The live website can be visited at: https://00xima16.pythonanywhere.com/
