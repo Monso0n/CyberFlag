@@ -4,4 +4,4 @@ A digital safety education service targetted towards youth. Built by the Uchicha
 
 The live website can be visited at: https://00xima16.pythonanywhere.com/
 
-Here is our video explaining the concept: [![Watch the video](https://img.youtube.com/vi/0BTefzNtGJI/maxresdefault.jpg)](https://youtu.be/0BTefzNtGJI)
+Here is our video explaining the concept (Click Me): [![Watch the video](https://img.youtube.com/vi/0BTefzNtGJI/maxresdefault.jpg)](https://youtu.be/0BTefzNtGJI)
